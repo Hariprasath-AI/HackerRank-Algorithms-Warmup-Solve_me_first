@@ -1,3 +1,5 @@
+# HackerRank-Algorithms-Warmup-Solve_me_first
+
 Complete the function solveMeFirst to compute the sum of two integers.
 
 Example :
